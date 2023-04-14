@@ -1,0 +1,47 @@
+Ans-1{The Python Programming Langguage devloped by Guido van Rossum }
+Ans-2{ The python is a multi-paradigm programming language.thus python supports Object-oriented programming and structured programming .
+Ans-3{ yes , python is a case seenstive programming langguage .for example- " A " and " a "  is to key key.}
+Ans 4{ .pyc is correct python extension.}
+Ans-5{ the pythone is an interpreted language, which means the source code of a Python program 
+      is converted into bytecode that is then executed by the Python virtual machine.  }
+Ans-6{ A module, a function body, and a class is a python blocks. Each code or commaand typed interactively is a block . here defines code of problems}
+
+Ans-7 { the " # " is used to single line command.
+Ans-8{ the command " python --version  " is used to check python version}
+ans -9{ python supports the creation of anonymous functions at runtime using a construct called " Lambada" .}
+Ans 10-{ The pip is stand for " pip Install Packages "}
+Ans-11{ Some built-in function are _____ 
+print()
+len() 
+id()
+input()
+set()
+setattr()
+slice()C
+callable()
+chr()
+classmethod()
+compile()
+       
+Ans-12{ An identifier can have a maximum length of 79 characters in Python}
+Ans-13{ benfit of using of python 
+       simple to use and understand for new comers.
+       free and opensource 
+       python looks like a general english langgauge 
+       Productivity has Increased. 
+       Interpreted Language. 
+        Extensive library. 
+        Dynamically Typed.
+Ans 14-{ python is used dynamic memory allocation 
+        which is managed by the Heap data structure. Memory Heap holds the objects and other data 
+        structures that will be used in the program.
+        
+Ans-15{      Right click on My Computer ->Properties ->Advanced System setting ->Environment Variable ->New
+       
+       
+
+            In Variable name write path and in Variable value copy path up to
+       C://Python(i.e., path where Python is installed). Click Ok ->Ok.
+
+      Path will be set for executing Python programs.   
+Ans 16-{ yes indentation is required if we dont follow the indentation code will not be run }
